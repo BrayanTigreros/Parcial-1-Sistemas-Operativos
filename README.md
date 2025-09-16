@@ -1,6 +1,6 @@
 # 💻 Parcial 1 – Sistemas Operativos  
 
-Este repositorio contiene el **examen parcial de la materia Sistemas Operativos**, en el cual se abordan distintos aspectos teóricos y prácticos relacionados con la asignatura.  
+Este repositorio contiene el **examen parcial de la materia Sistemas Operativos**, en el cual se abordan distintos aspectos teóricos y prácticos relacionados con la asignatura. Si buscas informacion respecto a este tema este documento puede serte util  
 
 ---
 
